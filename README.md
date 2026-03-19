@@ -27,13 +27,9 @@
 
 ---
 
-## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FreedoomBytes&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contacto
-- GitHub: https://github.com/FreedoomBytes
+- GitHub: https://github.com/LibertyBytes
+- Instagram: beto_ahumada18
 
 ---
 ⭐ Siempre aprendiendo y construyendo cosas nuevas
