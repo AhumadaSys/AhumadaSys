@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alberto Ahumada
+# Alberto Ahumada
 
 🎓 Estudiante de Ingeniería en Sistemas  
 💻 Apasionado por la programación, Linux y el desarrollo de software  
@@ -29,6 +29,7 @@
 ---
 
 ## 📫 Contacto
+- Email: betoahumada21@gmail.com
 - Instagram: beto_ahumada18
 
 ---
