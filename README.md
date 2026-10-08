@@ -29,7 +29,6 @@
 ---
 
 ## 📫 Contacto
-- GitHub: https://github.com/LibertyBytes
 - Instagram: beto_ahumada18
 
 ---
